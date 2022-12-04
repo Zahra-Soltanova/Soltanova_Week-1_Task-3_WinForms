@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadan3_1", "zadan3_1\zadan3_1.csproj", "{8015125B-69C1-4A15-B18F-8218DB287BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadan3_2", "zadan3_2\zadan3_2.csproj", "{E9255A8B-70AC-4499-89FD-AEA0376E205B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadan3_3", "zadan3_3\zadan3_3.csproj", "{DDD7DB93-28B3-4E21-AC27-B8B5DBF47CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8015125B-69C1-4A15-B18F-8218DB287BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8015125B-69C1-4A15-B18F-8218DB287BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8015125B-69C1-4A15-B18F-8218DB287BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8015125B-69C1-4A15-B18F-8218DB287BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9255A8B-70AC-4499-89FD-AEA0376E205B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9255A8B-70AC-4499-89FD-AEA0376E205B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9255A8B-70AC-4499-89FD-AEA0376E205B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9255A8B-70AC-4499-89FD-AEA0376E205B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD7DB93-28B3-4E21-AC27-B8B5DBF47CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD7DB93-28B3-4E21-AC27-B8B5DBF47CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD7DB93-28B3-4E21-AC27-B8B5DBF47CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD7DB93-28B3-4E21-AC27-B8B5DBF47CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C4D4E4-7B0F-4C54-B980-4E768C6AB0EA}
+	EndGlobalSection
+EndGlobal
